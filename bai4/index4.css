@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.client{
+    visibility:hidden;
+}
+.form-row{
+    justify-content: center;
+}
+#validationDefault03{
+    transform: translateX(94%);
+    width: 94.5%;
+}
+#result,#result1{
+    background-color: aquamarine;
+}
